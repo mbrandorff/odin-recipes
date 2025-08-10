@@ -1,0 +1,16 @@
+html {
+    box-sizing: border-box;
+
+    font-family: "Georgia", serif;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+a {
+    color: tomato;
+    text-decoration: none;
+}
